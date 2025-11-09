@@ -1,5 +1,6 @@
 # 🧠 AI MIND MATCHING  
-*Connecting curious minds through shared inquiries.*
+*Connecting curious minds through shared inquiries and interests.*
+*Where Reddit meets ChatGPT*
 
 ## 🌍 What This Product Does  
 **AI Mind Matching** is an anonymous, privacy-first social platform that connects people through their AI inquiries and learning journeys.  
@@ -38,9 +39,8 @@ It re-introduces the *human factor* into digital curiosity—helping users see h
 ## 🧰 Technologies (Planned Stack)  
 - **Frontend:** React.js with Tailwind CSS for a clean, fast interface.  
 - **Backend:** Node.js + Express for API management.  
-- **Database:** MongoDB for flexible, scalable data storage.  
-- **Authentication:** Custom anonymous token system.  
-- **Hosting:** Vercel / Render for frontend; MongoDB Atlas for backend.  
+- **Database:** MongoDB for flexible, scalable data storage.    
+- **Hosting:** Vercel / Render for frontend; MongoDB Atlas for backend. 
 
 ---
 
