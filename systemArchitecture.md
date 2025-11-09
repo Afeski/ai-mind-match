@@ -51,7 +51,4 @@ Indexes are optimized for query speed on tags and timestamps.
 3. Matching engine compares tags/interests to existing users.  
 4. User sees anonymous profiles with similar inquiries.  
 5. All communications occur through encrypted channels.  
-
----
-
-## 🧠 Architecture Diagram (Textual Representation)
+![Eattowealth Board - Ai as a social assistant](https://github.com/user-attachments/assets/5699d470-40db-4d7f-9614-a5da0536bd66)
